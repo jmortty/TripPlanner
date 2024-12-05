@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html {
+  scroll-behavior: smooth;
+}
+.hero {
+  position: relative;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.hero::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  animation: fadeBackground 12s infinite;
+}
+
+@keyframes fadeBackground {
+  0% {
+    background-image: url('/path/to/image1.jpg');
+    opacity: 1;
+  }
+  33% {
+    background-image: url('/path/to/image2.jpg');
+    opacity: 1;
+  }
+  66% {
+    background-image: url('/path/to/image3.jpg');
+    opacity: 1;
+  }
+  100% {
+    background-image: url('/path/to/image1.jpg');
+    opacity: 1;
+  }
+}
+
+@keyframes fadeBackground {
+  0%, 33% {
+    background-image: url('https://visitturkey.in/wp-content/uploads/2024/07/turkey-tourist-spots-the-ultimate-guide.webp');
+    opacity: 1;
+  }
+  34%, 66% {
+    background-image: url('https://www.worldatlas.com/r/w1200/upload/5c/d0/ca/shutterstock-698837674.jpg');
+    opacity: 1;
+  }
+  67%, 100% {
+    background-image: url('https://img.freepik.com/free-photo/wing-airplane-with-city-background_1232-1308.jpg?t=st=1733388764~exp=1733392364~hmac=71a6e5d18c4d97f42ef02b9e3fe0e499d21ce09bdd47e47b142e0a51212930ed&w=740');
+    opacity: 1;
+  }
+}

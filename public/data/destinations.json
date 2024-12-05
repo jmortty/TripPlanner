@@ -1,0 +1,291 @@
+[
+    {
+      "image": "/images/destination1.jpg",
+      "location": "Paris",
+      "country": "France",
+      "totalCost": 2000,
+      "touristPlaces": [
+        "Eiffel Tower",
+        "Louvre Museum",
+        "Notre-Dame Cathedral"
+      ],
+      "hotels": [
+        "Hotel Le Meurice",
+        "Shangri-La Hotel Paris"
+      ],
+      "foodAvailable": [
+        "Croissants",
+        "Escargot",
+        "Ratatouille"
+      ],
+      "flights": [
+        "Air France",
+        "Delta Airlines"
+      ]
+    },
+    {
+      "image": "/images/destination2.jpg",
+      "location": "Tokyo",
+      "country": "Japan",
+      "totalCost": 1500,
+      "touristPlaces": [
+        "Mount Fuji",
+        "Shibuya Crossing",
+        "Meiji Shrine"
+      ],
+      "hotels": [
+        "Park Hyatt Tokyo",
+        "The Peninsula Tokyo"
+      ],
+      "foodAvailable": [
+        "Sushi",
+        "Ramen",
+        "Tempura"
+      ],
+      "flights": [
+        "Japan Airlines",
+        "American Airlines"
+      ]
+    },
+    {
+      "image": "/images/destination3.jpg",
+      "location": "New York City",
+      "country": "USA",
+      "totalCost": 1800,
+      "touristPlaces": [
+        "Statue of Liberty",
+        "Central Park",
+        "Times Square"
+      ],
+      "hotels": [
+        "The Plaza Hotel",
+        "Four Seasons Hotel"
+      ],
+      "foodAvailable": [
+        "New York-style pizza",
+        "Bagels",
+        "Cheesecake"
+      ],
+      "flights": [
+        "United Airlines",
+        "JetBlue"
+      ]
+    },
+    {
+      "image": "/images/destination4.jpg",
+      "location": "Rome",
+      "country": "Italy",
+      "totalCost": 1600,
+      "touristPlaces": [
+        "Colosseum",
+        "Vatican City",
+        "Trevi Fountain"
+      ],
+      "hotels": [
+        "Hotel Quirinale",
+        "The St. Regis Rome"
+      ],
+      "foodAvailable": [
+        "Pasta",
+        "Pizza",
+        "Gelato"
+      ],
+      "flights": [
+        "Alitalia",
+        "American Airlines"
+      ]
+    },
+    {
+      "image": "/images/destination5.jpg",
+      "location": "Sydney",
+      "country": "Australia",
+      "totalCost": 2200,
+      "touristPlaces": [
+        "Sydney Opera House",
+        "Bondi Beach",
+        "Sydney Harbour Bridge"
+      ],
+      "hotels": [
+        "The Langham, Sydney",
+        "Park Hyatt Sydney"
+      ],
+      "foodAvailable": [
+        "Vegemite",
+        "Pavlova",
+        "Meat Pie"
+      ],
+      "flights": [
+        "Qantas Airways",
+        "Singapore Airlines"
+      ]
+    },
+    {
+      "image": "/images/destination6.jpg",
+      "location": "London",
+      "country": "England",
+      "totalCost": 1900,
+      "touristPlaces": [
+        "Big Ben",
+        "Buckingham Palace",
+        "British Museum"
+      ],
+      "hotels": [
+        "The Ritz London",
+        "The Savoy"
+      ],
+      "foodAvailable": [
+        "Fish and Chips",
+        "Full English Breakfast",
+        "Yorkshire Pudding"
+      ],
+      "flights": [
+        "British Airways",
+        "American Airlines"
+      ]
+    },
+    {
+      "image": "/images/destination7.jpg",
+      "location": "Dubai",
+      "country": "UAE",
+      "totalCost": 2500,
+      "touristPlaces": [
+        "Burj Khalifa",
+        "The Palm Jumeirah",
+        "Dubai Mall"
+      ],
+      "hotels": [
+        "Burj Al Arab",
+        "Atlantis The Palm"
+      ],
+      "foodAvailable": [
+        "Shawarma",
+        "Falafel",
+        "Baklava"
+      ],
+      "flights": [
+        "Emirates",
+        "Etihad Airways"
+      ]
+    },
+    {
+      "image": "/images/destination8.jpg",
+      "location": "Cape Town",
+      "country": "South Africa",
+      "totalCost": 1800,
+      "touristPlaces": [
+        "Table Mountain",
+        "Robben Island",
+        "Cape of Good Hope"
+      ],
+      "hotels": [
+        "One&Only Cape Town",
+        "The Twelve Apostles Hotel"
+      ],
+      "foodAvailable": [
+        "Biltong",
+        "Bobotie",
+        "Bunny Chow"
+      ],
+      "flights": [
+        "South African Airways",
+        "British Airways"
+      ]
+    },
+    {
+      "image": "/images/destination9.jpg",
+      "location": "Barcelona",
+      "country": "Spain",
+      "totalCost": 1700,
+      "touristPlaces": [
+        "Sagrada Familia",
+        "Park Güell",
+        "La Rambla"
+      ],
+      "hotels": [
+        "Hotel Arts Barcelona",
+        "Mandarin Oriental Barcelona"
+      ],
+      "foodAvailable": [
+        "Paella",
+        "Tapas",
+        "Churros"
+      ],
+      "flights": [
+        "Iberia",
+        "Vueling"
+      ]
+    },
+    {
+      "image": "/images/destination10.jpg",
+      "location": "Rio de Janeiro",
+      "country": "Brazil",
+      "totalCost": 2000,
+      "touristPlaces": [
+        "Christ the Redeemer",
+        "Copacabana Beach",
+        "Sugarloaf Mountain"
+      ],
+      "hotels": [
+        "Belmond Copacabana Palace",
+        "Hotel Fasano Rio de Janeiro"
+      ],
+      "foodAvailable": [
+        "Feijoada",
+        "Pão de Queijo",
+        "Brigadeiro"
+      ],
+      "flights": [
+        "LATAM Airlines",
+        "Gol Linhas Aéreas"
+      ]
+    },
+    {
+      "image": "/images/destination11.jpg",
+      "location": "Bangkok",
+      "country": "Thailand",
+      "totalCost": 1500,
+      "touristPlaces": [
+        "Grand Palace",
+        "Wat Arun",
+        "Chatuchak Market"
+      ],
+      "hotels": [
+        "Mandarin Oriental Bangkok",
+        "The Siam Hotel"
+      ],
+      "foodAvailable": [
+        "Pad Thai",
+        "Tom Yum Goong",
+        "Green Curry"
+      ],
+      "flights": [
+        "Thai Airways",
+        "Singapore Airlines"
+      ]
+    },
+    {
+      "image": "/images/destination12.jpg",
+      "location": "Istanbul",
+      "country": "Turkey",
+      "totalCost": 1700,
+      "touristPlaces": [
+        "Hagia Sophia",
+        "Blue Mosque",
+        "Grand Bazaar"
+      ],
+      "hotels": [
+        "Four Seasons Hotel Istanbul",
+        "The Ritz-Carlton, Istanbul"
+      ],
+      "foodAvailable": [
+        "Kebabs",
+        "Baklava",
+        "Turkish Delight"
+      ],
+      "flights": [
+        "Turkish Airlines",
+        "Emirates"
+      ]
+    }
+  ]
+  
